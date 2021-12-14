@@ -1,0 +1,7 @@
+{% highlight ruby %}
+def print_hi(name)
+  puts "Latin America, #{name}"
+end
+print_hi('Bolsonaro')
+#=> prints 'Latin America, Bolsonaro' to STDOUT.
+{% endhighlight %}
